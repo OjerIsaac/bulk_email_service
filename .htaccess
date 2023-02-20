@@ -1,0 +1,8 @@
+Header set Access-Control-Allow-Origin "*"
+
+RewriteEngine On # Turn on the rewriting engine
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+RewriteRule ^send-email/?$  mail.php [NC,L]
