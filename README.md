@@ -13,5 +13,5 @@ This is a bulk email sending service powered by PHP
 - Spin off your development server
 
 <p align="center">
-  <img src="screenshot.jpg" width="350" alt="bulk email screenshot" title="image sample">
+  <img src="screenshot.jpg" width="100%" alt="bulk email screenshot" title="image sample">
 </p>
