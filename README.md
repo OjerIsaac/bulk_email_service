@@ -11,3 +11,7 @@ This is a bulk email sending service powered by PHP
 - `git clone https://github.com/OjerIsaac/bulk_email_service.git`
 - `cd bulk_email_service`
 - Spin off your development server
+
+<p align="center">
+  <img src="screenshot.jpg" width="350" alt="bulk email screenshot" title="image sample">
+</p>
