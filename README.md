@@ -4,7 +4,7 @@ This is a bulk email sending service powered by PHP
 ## Requirements
 - [PHP](https://www.php.net/downloads.php) version 7 or higher
 - [MySQL](https://dev.mysql.com/doc/) The world's most popular open source database
-- Web hosting eg: [Hostinger](https://www.hostinger.com/web-hosting), [Namecheap](https://www.namecheap.com/hosting/), [Domainking](https://clients.domainking.ng/store/web-hosting) or (localhost)[https://www.apachefriends.org/download.html]
+- Web hosting eg: [Hostinger](https://www.hostinger.com/web-hosting), [Namecheap](https://www.namecheap.com/hosting/), [Domainking](https://clients.domainking.ng/store/web-hosting) or [XAMPP Server](https://www.apachefriends.org/download.html)
 
 ## How to install
 - Clone the repository
